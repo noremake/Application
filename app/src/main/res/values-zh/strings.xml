@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">新项目</string>
+    <string name="first_title">服务管家</string>
+    <string name="second_title">精选</string>
+    <string name="third_title">图片欣赏</string>
+    <string name="forth_title">个人中心</string>
+    <string name="text_setting">设置</string>
+    <string name="text_registered">注册</string>
+    <string name="application_name">智能管家</string>
+    <string name="text_welfare">福利</string>
+    <string name="app">APP简介</string>
+</resources>
